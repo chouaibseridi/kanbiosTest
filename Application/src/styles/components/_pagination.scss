@@ -1,0 +1,24 @@
+.pagination {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+.page-item{
+    border: 1px solid #ADADAD;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding-top: 5px;
+}
+
+.page-link {
+    cursor: pointer;
+}
+
+#current-item{
+    margin-top: -6px;
+    margin-left: -1px;
+    color:white;
+    background: linear-gradient(96.46deg, #01478E 0.05%, #26B6B4 100.05%);
+}

@@ -1,0 +1,19 @@
+.employees-list ul {
+  display: flex;
+  flex-wrap: wrap;  
+  gap:10px;
+  margin-top: 20px ;  
+  margin-left: 10%;
+}
+.searchResultCount{
+  text-align: left;
+  margin-left: 10%;
+  margin-top: 20px;
+}
+
+.eraseData-btn {
+  position: absolute;
+  top: 70px;
+  right: 20px;
+  background: linear-gradient(96.46deg, #c92a03 0.05%, #fd5e59 100.05%);
+}
